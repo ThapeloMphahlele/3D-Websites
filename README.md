@@ -27,8 +27,6 @@ Welcome to my first 3D website project! This is an experimental website featurin
 2. Navigate to the project directory
 3. Open `index.html` in your browser
 
-[If your project requires build steps, add them here]
-
 ## 📂 Project Structure
 ```
 project-root/
