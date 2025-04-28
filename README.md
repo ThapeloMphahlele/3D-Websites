@@ -10,7 +10,7 @@ Welcome to my first 3D website project! This is an experimental website featurin
 - Responsive design (work in progress)
 
 ## 🛠️ Technologies Used
-- [Three.js/Babylon.js/other]
+- Three.js
 - HTML5/CSS3
 - JavaScript (ES6+)
 
